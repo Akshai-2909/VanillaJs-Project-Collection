@@ -1,0 +1,44 @@
+*{
+	padding: 0%;
+	margin: 0%;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+h2{
+	text-align: center;
+	/*color: aqua;*/
+}
+
+body{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+	gap: 2rem;
+	padding: 15rem 0px;
+	background-color: blanchedalmond;
+}
+
+button{
+	width: 200px;
+	font-size: 100%;
+	background-color: white;
+	padding: 0.25em;
+	border: 2px solid black;
+	cursor: pointer;
+
+}
+
+.hexcode{
+	font-size: 150%;
+	
+}
+
+h4{
+	position: absolute;
+	bottom: 0px;
+}
