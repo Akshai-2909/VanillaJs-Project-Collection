@@ -47,9 +47,12 @@ function addtodo(event){
 
 
 function deleteCheck(e){
+
+    //Getting the target
+
     const item = e.target;
+    
     //delete todo
-    console.log(item)
 
     if(item.classList[0] === 'trash-btn'){
         const todo = item.parentElement;
@@ -61,6 +64,7 @@ function deleteCheck(e){
     }
 
     //checkmark
+    
     if(item.classList[0] === 'complete-btn'){
         const todo = item.parentElement;
         todo.classList.toggle('completed');
