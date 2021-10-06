@@ -3,4 +3,5 @@ Collection of Basic VanillaJS project with some variety of css implementation cr
 
 1. [Easy Manual Counter](https://codepen.io/Ai_J/pen/yLXQErz)
 2. [Background Color Changer](https://codepen.io/Ai_J/pen/powYmdX)
-3. [To-Do Task Manager]
+3. [To-Do Task Manager](https://codepen.io/Ai_J/pen/wveVweJ)
+4. [Opening Soon](https://codepen.io/Ai_J/pen/wveVweJ)
